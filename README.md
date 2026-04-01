@@ -22,12 +22,6 @@ The arm is designed for:
 
 ---
 
-## ⚙️ Requirements
-
-- ROS 2 Humble
-
----
-
 ## 🚀 Setup & Run
 
 ```bash
