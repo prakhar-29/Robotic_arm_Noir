@@ -19,7 +19,6 @@ The arm is designed for:
 
 
 ![Robotic Arm](images/arm_1.png)
-![State Publisher](images/arm_2.png)
 
 ---
 
