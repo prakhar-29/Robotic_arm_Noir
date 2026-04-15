@@ -1,0 +1,9 @@
+# Default initial positions for robotic_arm_urdf's ros2_control fake system
+
+initial_positions:
+  Base_joint: 0
+  Elbow_joint: 0
+  Gripper_joint: 0
+  Shoulder_joint: 0
+  Wrist_rotate_joint: 0
+  Wrist_vertical_joint: 0
